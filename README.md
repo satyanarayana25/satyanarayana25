@@ -1,4 +1,5 @@
 - 👋 Hi Folks, I’m @satya
+- i am Devops engineer with 6 year of experience in Cognizant and good in docker and aks.
 - 👀 I looking for job in Data Scientist role / ML / DL / NLP /AI
 - 🌱 I have completed PG Diploma in Data Science and AI from IIITB (Executive PG Programme in Machine Learning & AI)
 - 💞️ I’m looking to collaborate on project for data science and ML and deep learning projects
