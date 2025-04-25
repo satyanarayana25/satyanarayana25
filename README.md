@@ -1,8 +1,9 @@
 - 👋 Hi Folks, I’m @satya
-- i am Devops engineer with 6 year of experience in Cognizant and good in docker and aks.
-- 👀 I looking for job in Data Scientist role / ML / DL / NLP /AI
+- i am Devops engineer with 6 year of experience in Cognizant and good in docker and KI8 (aks).
+- 👀 I looking for Devops Enginner role jobs , Freelance projects , Teaching colabarartions.
+- Skills i hold is GitHUB , Azure Admin, Azure Devops, Azure Kubernetes, Azure CI/CD.
 - 🌱 I have completed PG Diploma in Data Science and AI from IIITB (Executive PG Programme in Machine Learning & AI)
-- 💞️ I’m looking to collaborate on project for data science and ML and deep learning projects
+- 💞️ I’m looking to collaborate on project for data science and ML and NLP learning projects
 - :scroll:Data Science/ML/AI Concepts: Inferential Stats.,Hypothesis Testing,EDA, Linear Reg., Logistic Reg.,Ridge/Lasso Reg., Naive Bayes,Clustering, PCA, Model Selection,Decision Tree Models, Boosting,
           Deep Learning (Perception, CNN, RNN,Transfer Learning).
 
